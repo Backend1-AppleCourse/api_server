@@ -1,0 +1,5 @@
+2024-03-31 14:05:28,799 - INFO - Request: GET http://localhost:8000/db/1 - Completed in 1.00ms - Status code: 200
+2024-03-31 14:05:32,734 - INFO - Request: GET http://localhost:8000/db/class-students/math - Completed in 0.52ms - Status code: 200
+2024-03-31 14:05:35,408 - INFO - Request: GET http://localhost:8000/db/all-students - Completed in 2.01ms - Status code: 200
+2024-03-31 14:05:53,817 - INFO - Request: POST http://localhost:8000/db/create-student - Completed in 1.00ms - Status code: 422
+2024-03-31 14:06:08,095 - INFO - Request: POST http://localhost:8000/db/create-student - Completed in 3.51ms - Status code: 200
